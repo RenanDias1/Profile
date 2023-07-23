@@ -1,6 +1,6 @@
 # Hello
 
-Meu nome é Renan, moro em Barueri-SP, tenho 22 anos de idade e completamente apaixonado por tecnologia.
+Meu nome é Renan Correa Dias, moro em Barueri-SP, tenho 22 anos de idade e completamente apaixonado por tecnologia.
 
 ## Aprendendo 
 
